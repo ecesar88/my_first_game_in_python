@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-############################## ESSE PROGRAMA É LICENCIADO SOB A LICENÇA GNU GPL 3.0 ##############################
 import random
 import math
 import os
