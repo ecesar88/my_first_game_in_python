@@ -8,6 +8,7 @@ import time
 # Declaração das variáveis globais
 title = ' Medieval Knight ' # Título do programa
 
+# Dicionários com todas as informações/variáveis do player e inimigos
 player_info = {
 	'inventario':{
 		'corpo':{
